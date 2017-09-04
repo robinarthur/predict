@@ -2,3 +2,4 @@
 .ipynb_checkpoints/Scraping and Cleaning-checkpoint.ipynb
 .ipynb_checkpoints/Prediction-checkpoint.ipynb
 .ipynb_checkpoints/scrape_data-checkpoint.ipynb
+*.csv
