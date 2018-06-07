@@ -29,4 +29,4 @@ class QuotesSpider(scrapy.Spider):
         
         
         
-/html/body/div[1]/div[3]/div[1]/div[1]/div/main/div/nav[1]/form/div/div[3]/i[2]
+# /html/body/div[1]/div[3]/div[1]/div[1]/div/main/div/nav[1]/form/div/div[3]/i[2]
