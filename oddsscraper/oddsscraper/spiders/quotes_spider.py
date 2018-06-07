@@ -26,3 +26,7 @@ class QuotesSpider(scrapy.Spider):
         with open(filename, 'wb') as f:
             f.write(response.body)
         self.log('Saved file %s' % filename)
+        
+        
+        
+/html/body/div[1]/div[3]/div[1]/div[1]/div/main/div/nav[1]/form/div/div[3]/i[2]
