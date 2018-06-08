@@ -28,5 +28,11 @@ class QuotesSpider(scrapy.Spider):
         self.log('Saved file %s' % filename)
         
         
-        
-# /html/body/div[1]/div[3]/div[1]/div[1]/div/main/div/nav[1]/form/div/div[3]/i[2]
+
+
+
+# Ajax Link: 
+# https://www.wettportal.com/lib/ajax/getDatagridContent.php?lang=de&partner=wettportal&contenttype=surebets&offset=01&pagesize=78&period=all
+# 2 Do:
+# - get the max integer and put it into the ajax string
+# - process the scraped site with all the data
